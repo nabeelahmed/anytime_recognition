@@ -6,3 +6,4 @@ simplejson
 jinja2
 nose
 sklearn
+h5py
