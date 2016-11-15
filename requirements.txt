@@ -7,3 +7,11 @@ jinja2
 nose
 sklearn
 h5py
+bottleneck
+pymc
+husl
+mpltools
+hurry.filesize
+joblib
+networkx
+fastcluster
