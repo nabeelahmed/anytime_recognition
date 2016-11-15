@@ -12,8 +12,7 @@ import matplotlib
 import matplotlib.pyplot as plt
 import husl
 import pylab
-import mpltools.style
-
+import matplotlib.style as style
 
 def set_color_cycle():
     matplotlib.rcParams['axes.color_cycle'] = [
@@ -24,7 +23,7 @@ set_color_cycle()
 
 
 def use_ggplot_style():
-    mpltools.style.use('ggplot')
+    style.use('ggplot')
     set_color_cycle()
 
 
