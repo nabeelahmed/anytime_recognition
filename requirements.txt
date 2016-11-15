@@ -5,7 +5,7 @@ pandas
 simplejson
 jinja2
 nose
-sklearn
+scikit-learn==0.15.0
 h5py
 bottleneck
 pymc
